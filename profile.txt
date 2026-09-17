@@ -1,0 +1,9 @@
+# BEKIR DEVS profile display data
+# Do not place a real authentication secret in a public GitHub repository.
+
+username=BEKIR
+license_key=BDV-****-****-DEMO
+remaining_days=30
+rank=Developer
+subscription=Premium
+status=Active
