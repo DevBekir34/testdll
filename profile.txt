@@ -4,6 +4,6 @@
 username=BEKIR
 license_key=BDV-****-****-DEMO
 remaining_days=30
-rank=Developer
+rank=Premium
 subscription=Premium
 status=Active
