@@ -1,8 +1,4 @@
-# Upload this file as profile.txt in:
-# https://github.com/DevBekir34/testdll
-#
-# enabled and expiry_date only change the visual status shown in the profile UI.
-# They do not enable, disable, or gate DLL/game functionality.
+
 
 username=Bekir
 license_key=PINGAL-XXXX-XXXX
@@ -12,8 +8,4 @@ enabled=1
 expiry_date=2030-04-30
 avatar_url=https://avatars.githubusercontent.com/u/293339768?v=4
 
-# Supported expiry_date examples:
-# expiry_date=2027-04-30
-# expiry_date=30.04.2027
-# expiry_date=30 nisan 2027
-# expiry_date=30 nisan
+
