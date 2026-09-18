@@ -10,7 +10,7 @@ rank=Developer
 subscription=Premium
 enabled=1
 expiry_date=2027-04-30
-avatar_url=https://raw.githubusercontent.com/DevBekir34/testdll/refs/heads/main/avatar.png
+avatar_url=https://avatars.githubusercontent.com/u/293339768?v=4
 
 # Supported expiry_date examples:
 # expiry_date=2027-04-30
