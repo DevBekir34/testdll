@@ -3,7 +3,7 @@
 
 username=CHEATGLOBAL
 license_key=BDV-****-****-DEMO
-remaining_days=995
+remaining_days=Unlimited
 rank=Premium
 subscription=Premium
 status=Active
