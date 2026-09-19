@@ -6,4 +6,4 @@ license_key=BDV-****-****-DEMO
 remaining_days=Unlimited
 rank=Premium
 subscription=Premium
-status=deactive
+status=active
